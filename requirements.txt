@@ -1,0 +1,10 @@
+# qrtools for scanning and comparing qr codes
+qrtools
+# requests to get image data
+requests
+# regex for patterns
+regex
+# channels for the chat
+channels
+# MySql
+mysqlclient

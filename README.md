@@ -1,4 +1,4 @@
-# ECM2434 Group 28 - EUGO
+# ECM2434 - EUGO
 ## Public Address
 The EUGO website is public and accessible on [here](https://eugo-344915.ew.r.appspot.com/eugo/login/ "EUGO Login"). The website should contain the current up to date EUGO program.
 
